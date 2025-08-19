@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284482701486",
+    "project_id": "share-bite-1",
+    "storage_bucket": "share-bite-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284482701486:android:1211b41de239f86d92453f",
+        "android_client_info": {
+          "package_name": "com.example.share_bite_try1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHl5zwI8bfUbtmRio6sFBmTTYW-jAjpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
